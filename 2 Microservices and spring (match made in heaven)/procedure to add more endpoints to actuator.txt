@@ -1,0 +1,4 @@
+go to localhost:8080/actuator to find some end points to show all the endpoints, 
+add this porperty in application.property file inside the project
+
+management.endpoints.web.exposure.include=*
